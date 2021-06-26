@@ -2,7 +2,7 @@
 
 <h1>Jogo da Cobrinha </h1>
 
-<h1 *align*="center">Recriando o jogo da cobrinha com JavaScript<br>Digital Innovation One</h1>
+<h1>Recriando o jogo da cobrinha com JavaScript<br>Digital Innovation One</h1>
 
 Curso do Bootcamp HTML Web Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
