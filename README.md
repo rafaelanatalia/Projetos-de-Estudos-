@@ -15,4 +15,4 @@ Curso do Bootcamp HTML Web Developer da [Digital Innovation One](https:
 
 <!--Bottom session-->
 
-<br><h4 *align*=center>Made with by <a *target*="_blank" *href*="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
+
